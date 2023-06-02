@@ -15,14 +15,14 @@ class OurNerwork
 def _init_(self):
 
     self.w1 = np.random.normal()
-    self.w2 = np.random.normal()
-    self.w3 = np.random.normal()
-    self.w4 = np.random.normal()
+    self.w2s = np.random.normal()
+    self.w3s = np.random.normal()
+    self.w4s = np.random.normal()
     self.w5 = np.random.normal()
     self.w6 = np.random.normal()
 
     self.b1 = np.random.normal()
-    self.b2 = np.random.normal()
+    self.b2s = np.random.normal()
     self.b3 = np.random.normal()
 
-#ssa
+#ssas
